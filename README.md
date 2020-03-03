@@ -1,2 +1,2 @@
-# fc
-Front Core utils
+# rui
+Reagentum UI utils
